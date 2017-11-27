@@ -1,4 +1,4 @@
-package speciality.xm.com.speciality;
+package speciality.xm.com.quarter;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

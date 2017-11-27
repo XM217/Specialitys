@@ -1,4 +1,4 @@
-package speciality.xm.com.speciality;
+package speciality.xm.com.quarter;
 
 import org.junit.Test;
 
